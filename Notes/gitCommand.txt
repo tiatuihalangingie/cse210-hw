@@ -1,0 +1,46 @@
+
+Adding files
+
+git add myFile.txt
+
+-only if you're using the same file but if you running
+the git command from adifferent folder then you specify the full name of the
+file, using either absolute or relative path.
+
+git add csharp-prep/Prep1/Program.cs
+
+or you simply use(remember the single period
+represents the current directory); "
+
+git add .
+
+
+Committing files
+
+git commit -m "Fixed problems where nother was 
+displayed of the screen.
+- it is important to choose a message that helps
+you and the teamates know why you made the changes.
+Especially if you track down the problem later.
+Mind you git will not lwt you commit without a message.
+
+When you don't type a message Git will take to a 
+text editor called vim. If you want to exit, then
+type :q! - q you want to quit and the ! says you 
+are not worried about saving chages.
+
+Pushing your changes to Github
+
+Once you committed your changes to your local 
+repository, you can pust them to Github
+
+git push (git push origin main)
+- we will only use git push because when you clone 
+a repo from GitHub these will be set as defaults.
+
+
+
+
+
+
+

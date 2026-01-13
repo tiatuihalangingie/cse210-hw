@@ -1,0 +1,39 @@
+
+Version Control System(VSC)
+
+- track history of changes as people and teams
+ collaborateon projects. 
+- if developers make changes they can recovered it
+anytime.
+
+* Which changes were made
+* Who made the changes.
+* when were the changes made?
+* Why were changes needed?
+
+Version control system is a type of software
+helps you keep track of changes in your files.
+Git is one specific version control system just
+like Toyota is one specific type of car.
+
+Version control system is like a toolbox for keeping
+track of changes in ou work. Gits just one kind of
+tool you can find in that toolbox. Git is just one popular
+example of those programs.
+
+Git is a version control software. It's a tool that
+helps you track changes in you code over time.
+When people say "version control", they mean the
+whole idea of managing different versions of files.
+and Git is one of the most popular tools used for that
+purpose. Git is the software and version control is the 
+system.
+
+
+Git is the version control system that you using to 
+keep track of changes in your files. In your
+software development projects, when you say, "I'm using
+Git, "you're saying you use this specific type of
+version control system.
+
+
