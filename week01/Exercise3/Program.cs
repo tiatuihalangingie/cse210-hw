@@ -36,6 +36,9 @@ class Program
             {
                 Console.WriteLine("You guessed it!");
                 Console.WriteLine($"You have {manyGuess} guessed");
+
+                // This will ask the user if they want to play again
+                // if not it well end the game.
                 Console.WriteLine("Would you like to play again? Yes/No: ");
                 string answer = Console.ReadLine();
             
